@@ -1,0 +1,4 @@
+
+        [ckan.plugins]
+        hoi=ckanext.hoi.plugin:HoiPlugin
+    

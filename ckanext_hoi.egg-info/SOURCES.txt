@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.py
+ckanext/__init__.py
+ckanext/hoi/__init__.py
+ckanext/hoi/plugin.py
+ckanext/hoi/tests/__init__.py
+ckanext/hoi/tests/test_plugin.py
+ckanext_hoi.egg-info/PKG-INFO
+ckanext_hoi.egg-info/SOURCES.txt
+ckanext_hoi.egg-info/dependency_links.txt
+ckanext_hoi.egg-info/entry_points.txt
+ckanext_hoi.egg-info/top_level.txt
