@@ -1,0 +1,5 @@
+{% ckan_extends %}
+
+{% block package_basic_fields_custom %}
+  {{ form.input('title_sv', label='Ruotsinkielinen otsikko', id='field-title_sv', placeholder=_('Titel'), value=data.title_sv, error=errors.title_sv, classes=['control-medium']) }}
+{% endblock %}

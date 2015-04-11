@@ -78,6 +78,6 @@ setup(
     # pip to create the appropriate form of executable for the target platform.
     entry_points='''
         [ckan.plugins]
-        hoi=ckanext.hoi.plugin:HoiPlugin
+        hoi_dataset=ckanext.hoi.plugin:HoiDatasetPlugin
     ''',
 )

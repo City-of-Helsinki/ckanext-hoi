@@ -4,6 +4,8 @@ setup.py
 ckanext/__init__.py
 ckanext/hoi/__init__.py
 ckanext/hoi/plugin.py
+ckanext/hoi/templates/package/snippets/package_basic_fields.html
+ckanext/hoi/templates/package/snippets/package_metadata_fields.html
 ckanext/hoi/tests/__init__.py
 ckanext/hoi/tests/test_plugin.py
 ckanext_hoi.egg-info/PKG-INFO
