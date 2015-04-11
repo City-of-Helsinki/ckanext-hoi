@@ -1,33 +1,3 @@
-.. You should enable this project on travis-ci.org and coveralls.io to make
-   these badges work. The necessary Travis and Coverage config files have been
-   generated for you.
-
-.. image:: https://travis-ci.org/City-of-Helsinki/ckanext-hoi.svg?branch=master
-    :target: https://travis-ci.org/City-of-Helsinki/ckanext-hoi
-
-.. image:: https://coveralls.io/repos/City-of-Helsinki/ckanext-hoi/badge.png?branch=master
-  :target: https://coveralls.io/r/City-of-Helsinki/ckanext-hoi?branch=master
-
-.. image:: https://pypip.in/download/ckanext-hoi/badge.svg
-    :target: https://pypi.python.org/pypi//ckanext-hoi/
-    :alt: Downloads
-
-.. image:: https://pypip.in/version/ckanext-hoi/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-hoi/
-    :alt: Latest Version
-
-.. image:: https://pypip.in/py_versions/ckanext-hoi/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-hoi/
-    :alt: Supported Python versions
-
-.. image:: https://pypip.in/status/ckanext-hoi/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-hoi/
-    :alt: Development Status
-
-.. image:: https://pypip.in/license/ckanext-hoi/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-hoi/
-    :alt: License
-
 =============
 ckanext-hoi
 =============
